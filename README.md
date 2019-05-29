@@ -4,6 +4,8 @@
 ## 汇总
 https://github.com/princewen/tensorflow_practice/tree/master/recommendation
 
+https://github.com/fire717/Recommendation-system
+
 
 ### Facebook的GBDT+LR
 https://www.cnblogs.com/wkang/p/9657032.html
@@ -11,4 +13,5 @@ https://www.cnblogs.com/wkang/p/9657032.html
 https://www.jianshu.com/p/96173f2c2fb4
 
 https://github.com/neal668/LightGBM-GBDT-LR
+
 
